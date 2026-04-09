@@ -1,0 +1,14 @@
+{
+  "name": "consulta-inss-pro",
+  "version": "2.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "lowdb": "^1.0.0",
+    "bcrypt": "^5.1.0"
+  }
+}
